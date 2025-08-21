@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **java full stack**
+- 💬 Ask me about **java full stack developer**
 
 - 📫 How to reach me **rasika.nagarajansanthi@gmail.com**
 
