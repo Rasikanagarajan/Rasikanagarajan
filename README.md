@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rasikanagarajan</h1>
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
 
 
 
