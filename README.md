@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasikanagarajan!;Java+Full+Stack+Developer;Learning+React+%F0%9F%92%BB;Code+%2B+Coffee+%3D+Life" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasikanagarajan!;Python+Full+Stack+Developer;Learning+React+%F0%9F%92%BB;Code+%2B+Coffee+%3D+Life" alt="Typing SVG" />
 <h1 align="center">Hi 👋, I'm Rasikanagarajan</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<h3 align="center">A passionate Python Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **java full stack developer**
+- 💬 Ask me about **Python full stack developer**
 
 - 📫 How to reach me **rasika.nagarajansanthi@gmail.com**
 
