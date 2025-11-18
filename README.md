@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasikanagarajan!;Python+Full+Stack+Developer;Learning+React+%F0%9F%92%BB;Code+%2B+Coffee+%3D+Life" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasikanagarajan!;Python+Full+Stack+Developer;Learning+Python+%F0%9F%92%BB;Code+%2B+Coffee+%3D+Life" alt="Typing SVG" />
 
 <h1 align="center">Hi 👋, I'm Rasikanagarajan</h1>
 <h3 align="center">A passionate Python Full Stack Developer</h3>
