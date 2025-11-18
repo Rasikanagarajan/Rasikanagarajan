@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=rasikanagarajan&label=Profile%20views&color=0e75b6&style=flat" alt="rasikanagarajan" /> 
 </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Python Full Stack Development**
 - 📫 Reach me at **rasika.nagarajansanthi@gmail.com**
 - ⚡ Fun fact: **🌙 I write better code at night than during the day!**
@@ -57,21 +57,26 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   </a>
 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Django Added -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+</a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   </a>
-
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <!-- MS SQL Added -->
+  <a href="https://www.microsoft.com/en-in/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
   </a>
 
 </p>
